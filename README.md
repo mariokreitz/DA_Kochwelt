@@ -27,7 +27,7 @@ Durch die Arbeit an diesem Projekt bekommen wir ein Gefühl dafür, wie Software
 
 ## 📸 Screenshots
 
-![DA_Kochwelt Screenshot](https://via.placeholder.com/800x400)
+![DA_Kochwelt Screenshot](https://raw.githubusercontent.com/mariokreitz/DA_Kochwelt/main/images/preview.png)
 
 ## 🤝 Mitwirkende
 
