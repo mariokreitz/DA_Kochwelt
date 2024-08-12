@@ -1,0 +1,842 @@
+[
+  {
+    "title": "Griechischer Bauernsalat",
+    "headerImg": "./images/food/salad.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "15 Min"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "simpel"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "09.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Salatgurke (n)",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Paprikaschote(n), rot und grün",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Tomaten (n)",
+        "amount": 200,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Zwiebel (n)",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Glas Oliven, schwarze, ca. 100g",
+        "amount": null,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Zitrone(n)",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Olivenöl",
+        "amount": 125,
+        "measurement": "ml"
+      },
+      {
+        "ingredient": "Salatgurke (n)",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Oregano",
+        "amount": null,
+        "measurement": ""
+      }
+    ],
+    "preperationtime": "ca. 15 Minuten",
+    "totaltime": "ca. 15 Minuten",
+    "description": "Dieser erfrischende Salat kombiniert knackige Salatgurke, rote und grüne Paprikaschoten, und saftige Tomaten zu einer köstlichen Mischung. Zwiebeln sorgen für eine angenehme Schärfe, während schwarze Oliven für eine würzige Note sorgen. Verfeinert wird der Salat mit einem Spritzer Zitrone und Olivenöl, die gemeinsam mit Oregano das authentische Aroma Griechenlands perfekt abrunden. Ideal als leichte Hauptmahlzeit oder als köstliche Beilage – dieser Griechischer Bauernsalat bringt mediterranen Genuss direkt auf Ihren Tisch.",
+    "avatar": "./images/profile/ms.jpeg",
+    "author": "Marcel Schmidt"
+  },
+  {
+    "title": "Lasagne",
+    "headerImg": "./images/food/lasagne.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "1 Stunde 40 Minuten"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "normal"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "09.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Olivenöl",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Hackfleisch, gemischtes",
+        "amount": 500,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Zwiebel (n)",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Knochblauchzehe (n)",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Petersilie oder TK",
+        "amount": 1,
+        "measurement": "Bund"
+      },
+      {
+        "ingredient": "Tomaten, geschält (800g)",
+        "amount": 1,
+        "measurement": "Dose"
+      },
+      {
+        "ingredient": "Rotwein",
+        "amount": null,
+        "measurement": "etwas"
+      },
+      {
+        "ingredient": "",
+        "amount": null,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Milch",
+        "amount": 0.5,
+        "measurement": "Liter"
+      },
+      {
+        "ingredient": "Butter",
+        "amount": 30,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Mehl",
+        "amount": 40,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Salt und Pfeffer",
+        "amount": null,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Zitronensaft",
+        "amount": null,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Muskar",
+        "amount": null,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Butter für die Form",
+        "amount": null,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Lasagneplatte (n)",
+        "amount": 300,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Käse, gerieben",
+        "amount": null,
+        "measurement": "n.B."
+      },
+      {
+        "ingredient": "Butterflocken",
+        "amount": null,
+        "measurement": ""
+      }
+    ],
+    "preperationtime": "ca. 30 Minuten",
+    "totaltime": "ca. 1 Stunde 40 Minuten",
+    "description": "Eine klassische Lasagne vereint herzhaften Geschmack und mediterrane Traditionen in einem Gericht. Die Zubereitung beginnt mit einer reichhaltigen Fleischsauce: Gemischtes Hackfleisch wird in Olivenöl angebraten und mit fein gehackter Zwiebel und Knoblauch verfeinert. Geschälte Tomaten und ein Schuss Rotwein sorgen für zusätzliche Tiefe und Geschmack. Die Sauce wird mit frischer Petersilie sowie Salz und Pfeffer abgerundet. Gleichzeitig wird eine cremige Bechamelsauce aus Butter, Mehl und Milch zubereitet und mit Zitronensaft, Muskat sowie weiteren Gewürzen verfeinert. In einer gebutterten Form werden Lasagneplatten schichtweise mit der Fleischsauce und der Bechamelsauce abwechselnd geschichtet. Zum Schluss wird die Lasagne mit geriebenem Käse bestreut und mit Butterflocken verfeinert, bevor sie im Ofen goldbraun gebacken wird. Dieses klassische Gericht vereint alle Elemente für ein köstliches und sättigendes Mahl und bringt italienische Genussmomente auf den Tisch.",
+    "avatar": "./images/profile/mk.jpeg",
+    "author": "Mario Kreitz"
+  },
+  {
+    "title": "Spaghetti Carbonara",
+    "headerImg": "./images/food/spaghetti_carbonara.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "20 Minuten"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "einfach"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "10.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Spaghetti",
+        "amount": 250,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Speck",
+        "amount": 150,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Eier",
+        "amount": 3,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Parmesan, gerieben",
+        "amount": 100,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Knoblauchzehe",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Olivenöl",
+        "amount": 2,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Pfeffer",
+        "amount": null,
+        "measurement": "nach Geschmack"
+      },
+      {
+        "ingredient": "Salz",
+        "amount": null,
+        "measurement": "nach Geschmack"
+      }
+    ],
+    "preperationtime": "ca. 10 Minuten",
+    "totaltime": "ca. 20 Minuten",
+    "description": "Eine klassische Spaghetti Carbonara mit cremiger Sauce aus Eiern und Parmesan, verfeinert mit knusprigem Speck.",
+    "avatar": "./images/profile/ms.jpeg",
+    "author": "Marcel Schmidt"
+  },
+  {
+    "title": "Caesar Salad",
+    "headerImg": "./images/food/caesar_salad.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "15 Minuten"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "einfach"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "11.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Römersalat",
+        "amount": 1,
+        "measurement": "Kopf"
+      },
+      {
+        "ingredient": "Hähnchenbrust",
+        "amount": 200,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Croutons",
+        "amount": 50,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Parmesan, gerieben",
+        "amount": 50,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Caesar-Dressing",
+        "amount": 100,
+        "measurement": "ml"
+      },
+      {
+        "ingredient": "Olivenöl",
+        "amount": 1,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Pfeffer",
+        "amount": null,
+        "measurement": "nach Geschmack"
+      },
+      {
+        "ingredient": "Salz",
+        "amount": null,
+        "measurement": "nach Geschmack"
+      }
+    ],
+    "preperationtime": "ca. 10 Minuten",
+    "totaltime": "ca. 15 Minuten",
+    "description": "Ein erfrischender Caesar Salad mit gegrilltem Hähnchen, knusprigen Croutons und einem leckeren Caesar-Dressing.",
+    "avatar": "./images/profile/mk.jpeg",
+    "author": "Mario Kreitz"
+  },
+  {
+    "title": "Veggie Chili",
+    "headerImg": "./images/food/veggie_chili.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "1 Stunde"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "mittel"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "12.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Kidneybohnen",
+        "amount": 1,
+        "measurement": "Dose"
+      },
+      {
+        "ingredient": "Kichererbsen",
+        "amount": 1,
+        "measurement": "Dose"
+      },
+      {
+        "ingredient": "Paprika",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Zwiebel",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Knoblauchzehen",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Tomatenwürfel",
+        "amount": 1,
+        "measurement": "Dose"
+      },
+      {
+        "ingredient": "Chili-Pulver",
+        "amount": 2,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Olivenöl",
+        "amount": 2,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Salz und Pfeffer",
+        "amount": null,
+        "measurement": "nach Geschmack"
+      }
+    ],
+    "preperationtime": "ca. 20 Minuten",
+    "totaltime": "ca. 1 Stunde",
+    "description": "Ein herzhaftes und würziges Veggie Chili, perfekt für kalte Tage oder als leichtes Abendessen.",
+    "avatar": "./images/profile/ms.jpeg",
+    "author": "Marcel Schmidt"
+  },
+  {
+    "title": "Caprese-Salat",
+    "headerImg": "./images/food/caprese_salad.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "10 Minuten"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "einfach"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "13.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Tomaten",
+        "amount": 4,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Mozzarella",
+        "amount": 200,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Basilikumblätter",
+        "amount": 1,
+        "measurement": "Bund"
+      },
+      {
+        "ingredient": "Olivenöl",
+        "amount": 3,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Balsamico-Essig",
+        "amount": 1,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Salz und Pfeffer",
+        "amount": null,
+        "measurement": "nach Geschmack"
+      }
+    ],
+    "preperationtime": "ca. 10 Minuten",
+    "totaltime": "ca. 10 Minuten",
+    "description": "Ein klassischer Caprese-Salat mit frischen Tomaten, Mozzarella und Basilikum, ideal als Vorspeise oder Beilage.",
+    "avatar": "./images/profile/mk.jpeg",
+    "author": "Mario Kreitz"
+  },
+  {
+    "title": "Kürbissuppe",
+    "headerImg": "./images/food/pumpkin_soup.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "45 Minuten"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "mittel"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "14.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Kürbis",
+        "amount": 1,
+        "measurement": "kg"
+      },
+      {
+        "ingredient": "Zwiebel",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Karotten",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Knoblauchzehe",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Gemüsebrühe",
+        "amount": 1,
+        "measurement": "Liter"
+      },
+      {
+        "ingredient": "Sahne",
+        "amount": 100,
+        "measurement": "ml"
+      },
+      {
+        "ingredient": "Olivenöl",
+        "amount": 2,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Salz und Pfeffer",
+        "amount": null,
+        "measurement": "nach Geschmack"
+      }
+    ],
+    "preperationtime": "ca. 15 Minuten",
+    "totaltime": "ca. 45 Minuten",
+    "description": "Eine cremige Kürbissuppe, ideal für den Herbst, mit einer geschmackvollen Mischung aus Kürbis und Gewürzen.",
+    "avatar": "./images/profile/ms.jpeg",
+    "author": "Marcel Schmidt"
+  },
+  {
+    "title": "Lachsfilet mit Spargel",
+    "headerImg": "./images/food/salmon_asparagus.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "30 Minuten"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "leicht"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "15.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Lachsfilets",
+        "amount": 2,
+        "measurement": "Stück"
+      },
+      {
+        "ingredient": "Spargel",
+        "amount": 500,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Olivenöl",
+        "amount": 2,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Zitronensaft",
+        "amount": 1,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Knoblauchzehe",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Salz und Pfeffer",
+        "amount": null,
+        "measurement": "nach Geschmack"
+      }
+    ],
+    "preperationtime": "ca. 10 Minuten",
+    "totaltime": "ca. 30 Minuten",
+    "description": "Gegrilltes Lachsfilet mit frischem Spargel, verfeinert mit Zitronensaft und Knoblauch für einen gesunden Genuss.",
+    "avatar": "./images/profile/mk.jpeg",
+    "author": "Mario Kreitz"
+  },
+  {
+    "title": "Hähnchen-Curry",
+    "headerImg": "./images/food/chicken_curry.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "1 Stunde"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "mittel"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "16.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Hähnchenbrust",
+        "amount": 500,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Zwiebel",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Knoblauchzehen",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Kokosmilch",
+        "amount": 400,
+        "measurement": "ml"
+      },
+      {
+        "ingredient": "Curry-Pulver",
+        "amount": 2,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Paprika",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Olivenöl",
+        "amount": 2,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Salz und Pfeffer",
+        "amount": null,
+        "measurement": "nach Geschmack"
+      }
+    ],
+    "preperationtime": "ca. 15 Minuten",
+    "totaltime": "ca. 1 Stunde",
+    "description": "Ein würziges Hähnchen-Curry mit Kokosmilch und frischem Gemüse, ideal für ein herzhaftes Abendessen.",
+    "avatar": "./images/profile/ms.jpeg",
+    "author": "Marcel Schmidt"
+  },
+  {
+    "title": "Quiche Lorraine",
+    "headerImg": "./images/food/quiche_lorraine.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "1 Stunde 15 Minuten"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "mittel"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "17.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Tarteteig",
+        "amount": 1,
+        "measurement": "Stück"
+      },
+      {
+        "ingredient": "Speckwürfel",
+        "amount": 150,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Eier",
+        "amount": 3,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Sahne",
+        "amount": 200,
+        "measurement": "ml"
+      },
+      {
+        "ingredient": "Gruyère-Käse, gerieben",
+        "amount": 150,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Salz und Pfeffer",
+        "amount": null,
+        "measurement": "nach Geschmack"
+      }
+    ],
+    "preperationtime": "ca. 15 Minuten",
+    "totaltime": "ca. 1 Stunde 15 Minuten",
+    "description": "Eine klassische Quiche Lorraine, gefüllt mit Speck, Gruyère-Käse und einer cremigen Ei-Sahne-Mischung.",
+    "avatar": "./images/profile/profile.png",
+    "author": "Maximilian Weber"
+  },
+  {
+    "title": "Pad Thai",
+    "headerImg": "./images/food/pad-thai.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "30 Minuten"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "leicht"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "09.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Reisnudeln",
+        "amount": 200,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Hähnchenbrustfilet",
+        "amount": 200,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Eier",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Sojasauce",
+        "amount": 3,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Fischsauce",
+        "amount": 2,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Brauner Zucker",
+        "amount": 1,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Erdnüsse",
+        "amount": 50,
+        "measurement": "g"
+      },
+      {
+        "ingredient": "Frühlingszwiebeln",
+        "amount": 3,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Koriander",
+        "amount": 1,
+        "measurement": "TL"
+      },
+      {
+        "ingredient": "Limettensaft",
+        "amount": 2,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Rote Chilischoten",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Sesamöl",
+        "amount": 2,
+        "measurement": "EL"
+      }
+    ],
+    "preperationtime": "ca. 10 Minuten",
+    "totaltime": "ca. 30 Minuten",
+    "description": "Pad Thai ist ein beliebtes thailändisches Nudelgericht, das für seinen köstlichen Geschmack und seine Vielseitigkeit bekannt ist. Es kombiniert Reisnudeln mit einer herzhaften Sauce, frischem Gemüse und knackigen Erdnüssen.",
+    "avatar": "./images/profile/profile.png",
+    "author": "Kritsada Suriya"
+  },
+  {
+    "title": "Ratatouille",
+    "headerImg": "./images/food/ratatouille.jpg",
+    "tags": [
+      {
+        "icon": "./images/icons/clock-regular.svg",
+        "text": "1 Stunde"
+      },
+      {
+        "icon": "./images/icons/brain-solid.svg",
+        "text": "mittel"
+      },
+      {
+        "icon": "./images/icons/calendar-alt-regular.svg",
+        "text": "18.08.2024"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Auberginen",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Zucchini",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Paprika",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Tomaten",
+        "amount": 4,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Zwiebel",
+        "amount": 1,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Knoblauchzehen",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "ingredient": "Olivenöl",
+        "amount": 3,
+        "measurement": "EL"
+      },
+      {
+        "ingredient": "Thymian",
+        "amount": 1,
+        "measurement": "TL"
+      },
+      {
+        "ingredient": "Rosmarin",
+        "amount": 1,
+        "measurement": "TL"
+      },
+      {
+        "ingredient": "Salz und Pfeffer",
+        "amount": null,
+        "measurement": "nach Geschmack"
+      }
+    ],
+    "preperationtime": "ca. 15 Minuten",
+    "totaltime": "ca. 1 Stunde",
+    "description": "Ein traditionelles Ratatouille, ein französisches Gemüsegericht, das köstlich und gesund ist.",
+    "avatar": "./images/profile/profile.png",
+    "author": "Clara Jung"
+  }
+]

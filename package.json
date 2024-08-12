@@ -1,0 +1,40 @@
+{
+  "name": "da_kochwelt",
+  "version": "1.0.0",
+  "description": "DA_Kochwelt ist ein gemeinschaftliches Projekt zur Erstellung einer responsiven Rezept-Website, auf der Hobbyköche Rezepte teilen und entdecken können.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./styles/input.css -o ./styles/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariokreitz/DA_Kochwelt.git"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "html",
+    "web-development",
+    "recipe-website",
+    "web-design",
+    "user-experience",
+    "responsive-design",
+    "collaborative-project",
+    "frontend-development",
+    "food-recipe"
+  ],
+  "author": "Mario Kreitz, Marcel Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariokreitz/DA_Kochwelt/issues"
+  },
+  "homepage": "https://github.com/mariokreitz/DA_Kochwelt#readme",
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.7",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.41",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "tailwindcss": "^3.4.8"
+  }
+}

@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../styles/output.css" />
+    <title>Kochwelt</title>
+    <link
+      rel="shortcut icon"
+      href="./images/logo_small.png"
+      type="image/x-icon"
+    />
+    <script
+      id="Cookiebot"
+      src="https://consent.cookiebot.com/uc.js"
+      data-cbid="ceef8029-a039-471d-ab66-f013e905c64b"
+      data-blockingmode="auto"
+      type="text/javascript"
+    ></script>
+  </head>
+  <body class="font-raleway">
+    <div id="header"></div>
+    <main class="bg-white p-6 text-kw-menu md:p-12">
+      <div class="mx-auto max-w-[1440px]">
+        <section class="mx-auto mb-8 max-w-4xl">
+          <h2 class="mb-4 text-xl font-semibold">Kontaktformular</h2>
+          <form
+            onsubmit="sendMail(event)"
+            class="rounded-lg bg-kw-grey p-6 shadow-md"
+          >
+            <div class="mb-4">
+              <label for="name" class="mb-2 block text-sm font-semibold"
+                >Name</label
+              >
+              <input
+                type="text"
+                id="name"
+                name="name"
+                class="w-full rounded-lg border border-kw-menu px-3 py-2 focus:outline-none focus:ring-2 focus:ring-kw-green"
+                required
+              />
+            </div>
+            <div class="mb-4">
+              <label for="email" class="mb-2 block text-sm font-semibold"
+                >E-Mail</label
+              >
+              <input
+                type="email"
+                id="email"
+                name="email"
+                class="w-full rounded-lg border border-kw-menu px-3 py-2 focus:outline-none focus:ring-2 focus:ring-kw-green"
+                required
+              />
+            </div>
+            <div class="mb-4">
+              <label for="message" class="mb-2 block text-sm font-semibold"
+                >Nachricht</label
+              >
+              <textarea
+                id="message"
+                name="message"
+                rows="4"
+                class="w-full rounded-lg border border-kw-menu px-3 py-2 focus:outline-none focus:ring-2 focus:ring-kw-green"
+                required
+              ></textarea>
+            </div>
+            <button
+              type="submit"
+              class="hover:bg-kw-green-dark bg-kw-green px-4 py-2 text-white shadow hover:bg-kw-lightgreen focus:outline-none focus:ring-2 focus:ring-kw-green"
+            >
+              Absenden
+            </button>
+          </form>
+        </section>
+        <section class="mx-auto mb-8 max-w-4xl">
+          <h2 class="mb-4 text-xl font-semibold">Unsere Kontaktdaten</h2>
+          <p class="mb-4">
+            Wenn Sie uns lieber direkt kontaktieren möchten, können Sie uns über
+            die folgenden Kontaktinformationen erreichen:
+          </p>
+          <ul class="list-disc pl-5">
+            <li class="mb-2">
+              <strong>Adresse:</strong> Kochwelt GmbH, Küchenstraße 42, 12345
+              Gourmentstadt, Deutschland
+            </li>
+            <li class="mb-2">
+              <strong>Telefon:</strong
+              ><a href="tel:+49123456789"> +49 123 456 789</a>
+            </li>
+            <li class="mb-2">
+              <strong>E-Mail:</strong>
+              <a
+                href="mailto:info@kochwelt.de"
+                class="text-kw-green hover:underline"
+                >info@kochwelt.de</a
+              >
+            </li>
+          </ul>
+        </section>
+        <section>
+          <h2 class="mb-4 text-xl font-semibold">Unsere Lage</h2>
+          <div class="rounded-lg bg-kw-grey p-6 shadow-md">
+            <p class="mb-4">Finden Sie uns auf der Karte:</p>
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249315.72331381765!2d8.539182809347678!3d47.37728929292977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b017d6d5a24ed%3A0xabe2f9bfb0480c4!2sMusterstadt!5e0!3m2!1sde!2sde!4v1654720767938!5m2!1sde!2sde"
+              width="100%"
+              height="400"
+              style="border: 0"
+              allowfullscreen=""
+              loading="lazy"
+            ></iframe>
+          </div>
+        </section>
+      </div>
+    </main>
+    <div id="footer"></div>
+    <script src="./scripts/EmailFormHandler.js"></script>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: raleway;
+  src: url("./fonts/Raleway-VariableFont_wght.ttf");
+}
+
+.font-raleway {
+  font-family: raleway, sans-serif;
+}
+
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition:
+    max-height 0.5s ease-out,
+    padding 0.5s ease-out;
+  padding: 0 1rem;
+}
+
+.accordion-content.show {
+  max-height: 2000px;
+  padding: 1rem;
+  transition:
+    max-height 0.5s ease-in,
+    padding 0.5s ease-in;
+}
+
+/* Explosionseffekt */
+#explosion-effect {
+  display: none;
+}
+
+#menu-btn .hamburger span:first-child {
+  top: 0;
+  transform: translate(0, -50%);
+  transition: all 500ms ease-in-out;
+}
+
+#menu-btn .hamburger span:nth-child(2) {
+  top: 50%;
+  transform: translate(0, -50%);
+  transition: all 500ms ease-in-out;
+}
+
+#menu-btn .hamburger span:last-child {
+  bottom: 0;
+  transition: all 500ms ease-in-out;
+  transform: translate(0, 50%);
+}
+
+#menu-btn.active .hamburger span:first-child {
+  top: 50%;
+  transform: translate(0, -50%) rotate(45deg);
+}
+
+#menu-btn.active .hamburger span:nth-child(2) {
+  opacity: 0;
+}
+
+#menu-btn.active .hamburger span:last-child {
+  bottom: 0;
+  bottom: 50%;
+  transform: translate(0, 50%) rotate(-45deg);
+}
