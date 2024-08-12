@@ -1,4 +1,4 @@
-﻿# 🍲 Kochwelt
+﻿# 🍲 Kochwelt [![Netlify Status](https://api.netlify.com/api/v1/badges/0c897b89-16ae-4ef5-8dbc-0edd1ae0bf98/deploy-status)](https://app.netlify.com/sites/kochwelt/deploys)
 
 Willkommen zu **Kochwelt**! In diesem Projekt geht es um eine responsive Rezepte-Webseite für Hobbyköche. Unser Ziel ist es, eine benutzerfreundliche Plattform zu schaffen, auf der Rezepte geteilt und gefunden werden können. 🥳
 
