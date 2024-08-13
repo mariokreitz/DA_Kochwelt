@@ -36,22 +36,22 @@ header.innerHTML = `
           class="hidden font-semibold lg:relative lg:flex items-end text-xl"
         >
           <a
-            href="../index.html"
+            href="./index.html"
             class="mr-4 rounded-3xl px-4 py-2 lg:px-2 lg:py-0 hover:text-kw-green relative"
             >Start</a
           >
           <a
-            href="../rezept.html?id=${dayID}"
+            href="./rezept.html?id=${dayID}"
             class="mr-4 rounded-3xl px-4 py-2 lg:px-2 lg:py-0 hover:text-kw-green relative"
             >Rezept des Tages</a
           >
           <a
-            href="../contact.html"
+            href="./contact.html"
             class="mr-4 rounded-3xl px-4 py-2adow-md lg:px-2 lg:py-0 hover:text-kw-green relative"
             >Kontakt</a
           >
           <a
-            href="../imprint.html"
+            href="./imprint.html"
             class="mr-4 rounded-3xl px-4 py-2adow-md lg:px-2 lg:py-0 hover:text-kw-green relative"
             >Impressum</a
           >

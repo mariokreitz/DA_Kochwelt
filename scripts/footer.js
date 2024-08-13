@@ -216,16 +216,16 @@ footer.innerHTML = `
                 Unsere Kategorien
               </h6>
               <p class="mb-4">
-                <a class="hover:text-white" href="../rezepte.html">Rezepte</a>
+                <a class="hover:text-white" href="./rezepte.html">Rezepte</a>
               </p>
               <p class="mb-4">
-                <a class="hover:text-white" href="../cooking_tipps.html">Koch-Tipps</a>
+                <a class="hover:text-white" href="./cooking_tipps.html">Koch-Tipps</a>
               </p>
               <p class="mb-4">
-                <a class="hover:text-white" href="../kitchen_tools.html">Küchen-Zubehör</a>
+                <a class="hover:text-white" href="./kitchen_tools.html">Küchen-Zubehör</a>
               </p>
               <p>
-                <a class="hover:text-white" href="../blog.html">Blog</a>
+                <a class="hover:text-white" href="./blog.html">Blog</a>
               </p>
             </div>
 
@@ -237,16 +237,16 @@ footer.innerHTML = `
                 Nützliche Links
               </h6>
               <p class="mb-4">
-                <a class="hover:text-white" href="../about.html">Über uns</a>
+                <a class="hover:text-white" href="./about.html">Über uns</a>
               </p>
               <p class="mb-4">
-                <a class="hover:text-white" href="../contact.html">Kontakt</a>
+                <a class="hover:text-white" href="./contact.html">Kontakt</a>
               </p>
               <p class="mb-4">
                 <a class="hover:text-white" href="#newsletter" id="openModal">Newsletter abonnieren</a>
               </p>
               <p>
-                <a class="hover:text-white" href="../faq.html">Häufige Fragen</a>
+                <a class="hover:text-white" href="./faq.html">Häufige Fragen</a>
               </p>
             </div>
 
