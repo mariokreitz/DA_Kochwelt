@@ -30,6 +30,6 @@ container.innerHTML = `
             <h3 class="mb-2 text-xl font-bold md:text-2xl lg:mb-8 lg:text-4xl">${getDayName()}: ${rezept.title}</h3>
             <p class="mb-8">${rezept.description}</p>
         </div>
-        <a class="block text-center mt-2 w-full bg-kw-green py-2 hover:bg-kw-lightgreen text-white sm:m-0 sm:h-full md:max-w-40" href="rezept.html?id=${dayID}">Rezept öffnen</a>
+        <a class="block text-center mt-2 w-full bg-kw-green py-2 hover:bg-kw-lightgreen text-white sm:m-0 sm:h-full md:max-w-40 transition-all" href="rezept.html?id=${dayID}">Rezept öffnen</a>
     </div>
 `;

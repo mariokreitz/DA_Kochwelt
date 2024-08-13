@@ -1172,6 +1172,16 @@ select {
   border-top-right-radius: 0.5rem;
 }
 
+.rounded-r {
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
+.rounded-b {
+  border-bottom-right-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+
 .border {
   border-width: 1px;
 }
@@ -1465,6 +1475,12 @@ select {
 .blur-none {
   --tw-blur:  ;
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+}
+
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
 }
 
 @font-face {
