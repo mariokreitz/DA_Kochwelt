@@ -37,22 +37,22 @@ header.innerHTML = `
         >
           <a
             href="../index.html"
-            class="shadow-inner-md mr-4 rounded-3xl px-4 py-2 blur-none hover:text-gray-500 active:shadow-md lg:px-2 lg:py-0 lg:shadow-none lg:active:shadow-none"
+            class="mr-4 rounded-3xl px-4 py-2 lg:px-2 lg:py-0 hover:text-kw-green relative"
             >Start</a
           >
           <a
             href="../rezept.html?id=${dayID}"
-            class="shadow-inner-md mr-4 rounded-3xl px-4 py-2 text-kw-green hover:text-kw-lightgreen active:shadow-md lg:px-2 lg:py-0 lg:underline lg:decoration-4 lg:underline-offset-[1rem] lg:shadow-none lg:active:shadow-none"
+            class="mr-4 rounded-3xl px-4 py-2 lg:px-2 lg:py-0 hover:text-kw-green relative"
             >Rezept des Tages</a
           >
           <a
             href="../contact.html"
-            class="shadow-inner-md mr-4 rounded-3xl px-4 py-2 active:shadow-md hover:text-gray-500 lg:px-2 lg:py-0 lg:shadow-none lg:active:shadow-none"
+            class="mr-4 rounded-3xl px-4 py-2adow-md lg:px-2 lg:py-0 hover:text-kw-green relative"
             >Kontakt</a
           >
           <a
             href="../imprint.html"
-            class="shadow-inner-md mr-4 rounded-3xl px-4 py-2 active:shadow-md hover:text-gray-500 lg:px-2 lg:py-0 lg:shadow-none lg:active:shadow-none"
+            class="mr-4 rounded-3xl px-4 py-2adow-md lg:px-2 lg:py-0 hover:text-kw-green relative"
             >Impressum</a
           >
         </nav>
